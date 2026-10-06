@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "npx live-server --open=./index.html"
+  },
+  "devDependencies": {
+    "live-server": "latest"
+  }
+}
